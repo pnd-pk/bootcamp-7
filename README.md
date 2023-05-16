@@ -1,1 +1,16 @@
-# bootcamp-7
+# bootcamp-7 (1# = Heading)
+
+All my data project i the bootcamp. There are 10 sprints as follow.
+
+- Google Sheets
+- SQL
+- R Programming
+- Data Transformation
+- Data Visualization
+- Essential Statistics
+- Essential ML
+- Python
+- Python for Data Analyst
+- Dashboard
+
+Verified Badge: 
